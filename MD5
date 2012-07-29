@@ -1,0 +1,13 @@
+07f0fd101591d9c6243e6c27b88d1775 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+e9bd97eb47c0fe8ceab053d9116c6059 *R/onesamplemeantest.R
+593b4f0d07106f2282a3cb6531df9c8f *R/twosamplemeantest.R
+c9276f643d071f648743c0dc6677bae0 *R/wcq.R
+8c063340a8fa1c9e0e0da87b5141c74b *data/sample.markers.rda
+b6e434aeb7cd4af969444cb07e137549 *data/sample.traits.rda
+c25e44363210fbf63e7c12ce4d9a9e8e *man/WCQ-package.Rd
+c7a109a6ea4dd696e31736bc49664165 *man/onesamplemeantest.Rd
+4e83bb6c35eb2af05657d50c2268f823 *man/sample.markers.Rd
+12345137c215cb4afeeba0962c078c71 *man/sample.traits.Rd
+1638aba8e73b4184f3018b957c813785 *man/twosamplemeantest.Rd
+8807748725d53778cfa07b33ec466383 *man/wcq.Rd
